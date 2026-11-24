@@ -1,0 +1,8 @@
+[MASTER]
+max-line-length=110
+
+[BASIC]
+good-names-rgxs=^X(_.*)?$
+
+[MESSAGES CONTROL]
+disable=too-many-arguments,too-many-positional-arguments
